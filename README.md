@@ -2,4 +2,4 @@
  
 2. And i know that ![icons8-c++-48](https://github.com/AdemCpp/My-C-Code/assets/164550699/31b276ba-ccb3-42b0-9b4c-4c45698e8e15) is not a good starting point but i choose because i felt comforterble with it 👌.
 3. But can anyone help me i'll provide a link to my discord![icons8-discord-48](https://github.com/AdemCpp/My-C-Code/assets/164550699/5690857d-c817-4337-8e63-2ebbce5aeed2)----->(Soon) because i wanna know what to use this for ❓. 
-5. Note: "The file C++Project learning/HelloWorld.cpp ![image](https://github.com/AdemCpp/My-C-Code/assets/164550699/7389eddf-d977-4b30-8acf-630a15070046) is just the last code that i typed ✍⌨"
+5. Note: "The file C++Project learning/HelloWorld.cpp ----->> ![image](https://github.com/AdemCpp/My-C-Code/assets/164550699/7389eddf-d977-4b30-8acf-630a15070046) <<----- is just the last code that i typed ✍⌨"
